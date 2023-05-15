@@ -160,7 +160,7 @@ VIO 是最为经典的多传感器组合，目前研究较为全面且完善。
 
 |研究问题|动机|创新点|难度|详细信息|
 |---- | ---- | ---- | ---- | ---- |
-|传统方法的改进| 1. 卷精度 2. 卷效率 3. 卷挑战性环境（鲁棒性） | \ |:star::star::star::star:|https://github.com/linyicheng1/Research_Direction_in_SLAM/blob/main/theme/%E7%9B%B4%E7%BA%BF%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96.md|
+|传统方法的改进| 1. 卷精度 2. 卷效率 3. 卷挑战性环境（鲁棒性） | \ |:star::star::star::star:|[手工直线提取综述](https://github.com/linyicheng1/Research_Direction_in_SLAM/blob/main/theme/%E7%9B%B4%E7%BA%BF%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96.md)|
 |学习方法改进||
 
 ### 语义特征
