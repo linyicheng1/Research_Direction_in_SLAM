@@ -17,7 +17,7 @@
 
 ## News 
 
-- 2023.5.15 更新了[手工直线特征提取]()的综述
+- 2023.5.15 更新了[手工直线特征提取](https://github.com/linyicheng1/Research_Direction_in_SLAM/blob/main/theme/%E7%9B%B4%E7%BA%BF%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96.md)的综述
 
 ## 概述
 
